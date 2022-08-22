@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>rolex and lexha</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+</html>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="card">
+  <img src="" alt="ISSAC IMMANUEL S R" style="width:100%">
+  <h1>ISSAC IMMANUEL S R</h1>
+  <p class="title">CEO & Founder, rolex and lexha</p>
+  <p>Karunya University</p>
+  <a href="#"><i class="fa fa-dribbble"></i></a>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <a href="#"><i class="fa fa-facebook"></i></a>
+  <p><button>Contact</button></p>
+</div>
+<style>
+    .jumbotron {
+      background-color: #66ff33;
+      color: #ffffff;
+    }
+    </style>
+   
+    <body>
+      <div class="jumbotron text-center">
+        <h1>rolex and lexha</h1>
+        <p>rolex and lexha is an ambitious and innovative, 21st century Telecom & Software Services Company started by group of young, enthusiastic and highly skilled engineers.
+
+          rolex and lexha was started with the aim of helping customers and business to save their rising IT cost without impacting the quality. We are a one point Engineering consulting company who can work as a guide in any of your project with focus and aim of cost saving without compromising the quality.
+           
+            Our aspiration is to recognize your business, share a common business goal with you, and help you reach your objectives. We value the long-term relationship we create with our customers and ultimately become an extension of their businesses.</p>
+        </p>
+      </div>
+     
+    </body>
+    <div class="jumbotron text-center">
+        <h1>rolex and lexha</h1>
+        <p></p>
+        <form class="form-inline">
+          <div class="input-group">
+            <input type="email" class="form-control" size="50" placeholder="Email Address" required>
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-danger">Subscribe</button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="container-fluid bg-grey">
+        <h2 class="text-center">CONTACT</h2>
+        <div class="row">
+          <div class="col-sm-5">
+            <p>Contact us and we'll get back to you within 24 hours.</p>
+            <p><span class="glyphicon glyphicon-map-marker"></span> coimbatore,India</p>
+            <p><span class="glyphicon glyphicon-phone"></span> +91 9629800909</p>
+            <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p>
+          </div>
+          <div class="col-sm-7">
+            <div class="row">
+              <div class="col-sm-6 form-group">
+                <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+              </div>
+              <div class="col-sm-6 form-group">
+                <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+              </div>
+            </div>
+            <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+            <div class="row">
+              <div class="col-sm-12 form-group">
+                <button class="btn btn-default pull-right" type="submit">Send</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
