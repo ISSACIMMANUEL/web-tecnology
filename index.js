@@ -46,7 +46,7 @@ app.controller("myctrl",($scope)=>{
                     }}
 })
 app.config(function($routeProvider){
-    $routeProvider.when('/maddy',{
+    $routeProvider.when('/issac',{
         templateUrl:'./page1.html'
     })
     .when('/sam',{
@@ -58,5 +58,5 @@ app.config(function($routeProvider){
     .when('/muthu',{
         templateUrl:'./page4.html'
     })
-    .otherwise({redirectTo:'/maddy'})
+    .otherwise({redirectTo:'/issac'})
 })
